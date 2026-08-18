@@ -21,11 +21,11 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
 * Banco de Dados
 * Git e GitHub
 
-## Projetos
+## Projetos 🪻🪐
 Nesse GitHub você encontrará projetos, exercícios e atividades desenvolvidos durante meus estudos
 Os projetos têm como objetivo colocar em prática os conceitos aprendidos em aula e acompanhar minha evolução como desenvolvedor.
 
-## Objetivo
+## Objetivo 🪻🪐
 Meu objetivo é continuar aprimorando meus conhecimentos em tecnologia, desenvolver novos projetos e adquirir experiência na área de desenvolvimento de software.
 
 <!--
