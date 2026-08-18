@@ -14,7 +14,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
 * Banco de Dados
 
 
-            <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+            <img "height = 50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
           
 
 ## Atualmente estudando 🪻🪐
